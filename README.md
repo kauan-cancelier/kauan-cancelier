@@ -1,4 +1,4 @@
-## Olá Mundo!
+##Olá Mundo!
 
 Bem-vindo ao meu perfil do GitHub! 🚀
 
@@ -14,13 +14,18 @@ Sou um entusiasta da tecnologia apaixonado por transformar ideias em código. Es
 
 ### Estatísticas do github
 
-<div style="display: inline-block; justify-content: space-between;">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=kauan-cancelier&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" alt="Estatísticas do GitHub" />
-      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-cancelier&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" alt="Linguagens Mais Usadas" />
-</div>
-
+------
+ <br>
+ <br>
+ <p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html&theme=dracula"/>
+ 
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </P><br>
 <br>
+
+------
 
 #### Quer entrar em contato, colaborar em um projeto ou simplesmente bater um papo sobre tecnologia?
 
@@ -43,10 +48,4 @@ Sou um entusiasta da tecnologia apaixonado por transformar ideias em código. Es
 <br>
 Obrigado por visitar meu perfil do GitHub. Vamos juntos construir um futuro digital incrível! 🌟
 
-<br>
-<br>
-<div align=center>
 
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
-</div>
