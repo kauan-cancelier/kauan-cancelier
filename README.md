@@ -17,7 +17,7 @@ Sou um entusiasta da tecnologia apaixonado por transformar ideias em código. Es
 <div style="display: inline-block; justify-content: space-between;">
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=kauan-cancelier&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" alt="Estatísticas do GitHub" />
-      <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-cancelier&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" alt="Linguagens Mais Usadas" />
+      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-cancelier&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" alt="Linguagens Mais Usadas" />
 </div>
 
 <br>
