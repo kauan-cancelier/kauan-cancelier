@@ -18,10 +18,10 @@ Sou um entusiasta da tecnologia apaixonado por transformar ideias em código. Es
  <br>
  <br>
  <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-cancelier&layout=compact&hide=html&theme=dracula"/>
  
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kauan-cancelier&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br>
 <br>
 
