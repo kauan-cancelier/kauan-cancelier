@@ -1,4 +1,4 @@
-## Olá, sou o Kauan Mello Cancelier
+## Olá Mundo!
 
 Bem-vindo ao meu perfil do GitHub! 🚀
 
@@ -42,3 +42,11 @@ Sou um entusiasta da tecnologia apaixonado por transformar ideias em código. Es
 <br>
 <br>
 Obrigado por visitar meu perfil do GitHub. Vamos juntos construir um futuro digital incrível! 🌟
+
+<br>
+<br>
+<div align=center>
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
