@@ -46,6 +46,6 @@ Sou um entusiasta da tecnologia apaixonado por transformar ideias em código. Es
 <br>
 <br>
 <br>
-Obrigado por visitar meu perfil do GitHub. Vamos juntos construir um futuro digital incrível! 🌟
+Obrigado por visitar meu perfil do GitHub! 🌟
 
 
