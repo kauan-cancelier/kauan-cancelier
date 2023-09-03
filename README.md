@@ -5,11 +5,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 ### Quem sou eu
 
 Sou um entusiasta da tecnologia apaixonado por transformar ideias em código. Estou constantemente buscando maneiras de aprender, crescer e contribuir para a comunidade de desenvolvedores.
-
-### O que faço
-
-- 💻 Desenvolvo aplicações Desktops Java.
-- 📚 Compartilho meu conhecimento a partir dos repositórios que posto aqui.
+No momento estou aumentando minhas habilidades desenvolvendo aplicações web com NodeJs e mais para frente VueJs.
 
 
 ### Estatísticas do github
