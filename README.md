@@ -14,10 +14,10 @@ No momento estou aumentando minhas habilidades desenvolvendo aplicações web co
  <br>
  <br>
  <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-manentii&layout=compact&hide=html&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-cancelier&layout=compact&hide=html&theme=dracula"/>
  
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eduarda-manentii&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kauan-cancelier&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br>
 <br>
 
