@@ -27,7 +27,7 @@ No momento estou aumentando minhas habilidades desenvolvendo aplicações web co
 
 
 <a href="https://www.linkedin.com/in/kauan-mello-cancelier-a23b90233/">
-  <img align="left" alt="Linkedin" width=40px style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  <img align="left" alt="Linkedin" width=40px style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
 </a>
 
 <a href="https://www.instagram.com/kauancancelier/">
