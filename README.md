@@ -14,11 +14,12 @@ No momento estou aumentando minhas habilidades desenvolvendo aplicações web co
  <br>
  <br>
  <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-cancelier&layout=compact&hide=html&theme=dracula"/>
- 
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kauan-cancelier&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </P><br>
+  <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kauan-cancelier&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-cancelier&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
+   <img src="https://streak-stats.demolab.com?user=kauan-cancelier&locale=pt-br&mode=weekly&theme=ocean_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+ </div>
+</P><br>
 <br>
 
 ------
